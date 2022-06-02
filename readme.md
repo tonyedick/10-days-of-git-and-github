@@ -958,7 +958,7 @@ Data Science
 Machine Learning
 </summary>
 <li>
-<a href=""></a>
+<a href="https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/">Machine Learning Course for Beginners</a>
 </li>
 </details>
 
